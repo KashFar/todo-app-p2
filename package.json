@@ -2,7 +2,7 @@
   "name": "todos",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://KashF.github.io/Todo-app-p2/",
+  "homepage": "http://KashF.github.io/todo-app-p2/",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
